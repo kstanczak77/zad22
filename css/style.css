@@ -1,0 +1,15 @@
+p {
+    color: blueviolet;
+}
+
+h1 {
+    background-color: chartreuse;
+}
+
+h3 {
+    background-color: rgb(184, 187, 170);
+}
+
+h1+h3 {
+    color: red;
+}
